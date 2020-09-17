@@ -1,4 +1,4 @@
-# DSexcercise
+# Data Science Exercise
 The attached CSV file lists the customer, date, and dollar value of orders placed at a store in 2017. The actual gender and predicted gender of each customer is also provided.
 
 A) Assemble a dataframe with one row per customer and the following columns:
